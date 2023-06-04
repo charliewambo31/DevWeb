@@ -1,0 +1,27 @@
+td {
+    width: 100px;
+    height: 100px;
+    border-style: solid;
+}
+
+.bleu {
+    background-color: blue;
+}
+
+.vert {
+    background-color: green;
+}
+
+.jaune {
+    background-color: yellow;
+}
+
+.rouge {
+    background-color: red;
+}
+
+.operat_val {
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+}

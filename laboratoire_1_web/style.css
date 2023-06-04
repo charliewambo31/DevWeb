@@ -1,0 +1,60 @@
+nav ul li {
+    display: inline;
+    margin-left: 50px;
+    margin-right: 50px;
+    color:red
+
+}
+ nav {
+    text-align: center;
+
+ }
+ td{
+    border: end end radius 5px;;
+    text-align: left;
+    height:10px;
+
+
+ }
+ tr{
+    height:10px;
+
+ }
+ img{
+    width: 500px;
+    height: 500px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+ }
+
+
+h3{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+   }
+
+ p{
+  font: size 3.4em;
+  opacity: 0.9;
+  font-weight: 600;
+  margin-top: 5px;
+  margin-left: 20px;
+ }
+
+#form {
+    padding: 125px;
+}
+table{
+   margin-left: 0px;
+   margin-right: 50px; 
+}
+
+.tb-produit {
+	width: 100%
+}
+
+#chaise-rotin {
+	width: 100%
+}
